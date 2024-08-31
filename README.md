@@ -1,4 +1,4 @@
-List - one is enough  : [Try](https://agenda-n.vercel.app/)
+List - one is enough  : [Link](https://agenda-n.vercel.app/)
 
 This list is not an ordinary list with some add list features that will be removed once browser is closed. It will be always there untill it is manually removed. 
 This is a todo list with lot many facilities and a very eye soothing UI.
